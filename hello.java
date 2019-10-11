@@ -6,4 +6,7 @@ public class hello{
 	public void sleep(){
 		System.out.println("ni hao");
 	}
+	public void eat(){
+		System.out.println("hello!")
+	}
 }
