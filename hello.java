@@ -7,6 +7,10 @@ public class hello{
 		System.out.println("ni hao");
 	}
 	public void eat(){
-		System.out.println("hello!")
+		System.out.println("hello!");
+	}
+	
+	public void like(){
+		System.out.println("hello!");
 	}
 }
